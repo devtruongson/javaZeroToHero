@@ -1,0 +1,15 @@
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\worksapce\java\javaZeroToHero\beginer\interface\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
