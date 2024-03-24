@@ -17,13 +17,21 @@ public class Mobile extends Engine {
         Scanner scanner = new Scanner(System.in);
         super.input();
         System.out.print("Ban hay nhap quoc gia san xuat dien thoai");
-        this.country = scanner.nextLine();
+        this.setCountry(scanner.nextLine());
     }
 
     @Override
     public void display() {
         super.display();
-        System.out.print("Quoc gia san xuat dien thoai la :" + this.country);
+        System.out.print("Quoc gia san xuat dien thoai la :" + this.getCountry());
+    }
+
+    public String getCountry() {
+        return country;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
     }
 
 }

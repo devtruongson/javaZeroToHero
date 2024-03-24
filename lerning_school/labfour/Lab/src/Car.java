@@ -17,6 +17,23 @@ public class Car extends Engine {
         this.speed = speed;
     }
 
+    @Override
+    public void input() {
+        super.input();
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Nhap so ghe cua xe :");
+        this.setTotalSeat(scanner.nextInt());
+        System.out.println("Nhap toc do cua xe :");
+        this.setSpeed(scanner.nextInt());
+    }
+
+    @Override
+    public void display() {
+        super.display();
+        System.out.println("So ghe cua xe la:" + this.getTotalSeat());
+        System.out.println("Toc do cua xe la:" + this.getSpeed());
+    }
+
     public int getTotalSeat() {
         return totalSeat;
     }
@@ -33,20 +50,4 @@ public class Car extends Engine {
         this.speed = speed;
     }
 
-    @Override
-    public void input() {
-        super.input();
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhap so ghe cua xe :");
-        this.totalSeat = scanner.nextInt();
-        System.out.println("Nhap toc do cua xe :");
-        this.speed = scanner.nextInt();
-    }
-
-    @Override
-    public void display() {
-        super.display();
-        System.out.println("So ghe cua xe la:" + this.totalSeat);
-        System.out.println("Toc do cua xe la:" + this.speed);
-    }
 }
